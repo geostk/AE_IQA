@@ -1,0 +1,19 @@
+Using TensorFlow backend.
+5000/50000 images done!
+10000/50000 images done!
+15000/50000 images done!
+20000/50000 images done!
+25000/50000 images done!
+30000/50000 images done!
+35000/50000 images done!
+40000/50000 images done!
+45000/50000 images done!
+50000/50000 images done!
+Adding GBLUR done!
+5000/10000 images done!
+10000/10000 images done!
+Adding GBLUR done!
+Traceback (most recent call last):
+  File "cdA_gblur.py", line 129, in <module>
+    corr_enc = concatenate([encs[L-1], q], axis=-1)
+NameError: name 'concatenate' is not defined

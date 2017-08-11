@@ -1,0 +1,117 @@
+Using TensorFlow backend.
+5000/50000 images done!
+10000/50000 images done!
+15000/50000 images done!
+20000/50000 images done!
+25000/50000 images done!
+30000/50000 images done!
+35000/50000 images done!
+40000/50000 images done!
+45000/50000 images done!
+50000/50000 images done!
+Adding GBLUR done!
+5000/10000 images done!
+10000/10000 images done!
+Adding GBLUR done!
+(650000, 32, 32, 3) (650000, 32, 32, 3) (130000, 32, 32, 3) (130000, 32, 32, 3)
+Train on 650000 samples, validate on 130000 samples
+Epoch 1/50
+940s - loss: 0.0231 - model_5_loss: 0.0174 - model_6_loss: 0.0057 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 2/50
+968s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 3/50
+971s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 4/50
+974s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 5/50
+968s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 6/50
+970s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 7/50
+965s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 8/50
+965s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 9/50
+967s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 10/50
+965s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 11/50
+966s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 12/50
+963s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 13/50
+716s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 14/50
+300s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 15/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 16/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 17/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 18/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 19/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 20/50
+278s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 21/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 22/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 23/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 24/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 25/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 26/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 27/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 28/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 29/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 30/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 31/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 32/50
+279s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 33/50
+280s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 34/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 35/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 36/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 37/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 38/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 39/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 40/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 41/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 42/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 43/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 44/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 45/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 46/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 47/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 48/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 49/50
+281s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
+Epoch 50/50
+282s - loss: 0.0000e+00 - model_5_loss: 0.0000e+00 - model_6_loss: 0.0000e+00 - val_loss: 0.1592 - val_model_5_loss: 0.1592 - val_model_6_loss: 0.0000e+00
